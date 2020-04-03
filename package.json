@@ -10,6 +10,7 @@
   "author": "Rafael Ortiz",
   "license": "ISC",
   "dependencies": {
+    "inquirer-recursive": "0.0.6",
     "zlib": "^1.0.5"
   }
 }
